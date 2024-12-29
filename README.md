@@ -5,9 +5,7 @@ A fun and interactive console-based typing game designed to improve typing speed
 <br>
 
 ## Features 🛠️
-<br>
-
-### 1. Game Levels
+###  Game Levels
 <br>
 - **Easy Mode**: Random single uppercase or lowercase letters.
 <br>
