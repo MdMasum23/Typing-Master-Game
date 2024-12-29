@@ -15,4 +15,6 @@ A fun and interactive console-based typing game designed to improve typing speed
 <br>
 - **Hard Mode**: Longer and more complex words like `hippopotamus`, `giraffe`.
 <br>
-![Screenshot 2024-12-29 132020](https://github.com/user-attachments/assets/65e7dd60-6e8a-4ed5-9161-e6bbd39b999c)
+
+![flowchart](https://github.com/user-attachments/assets/e7830f33-0610-4b1a-a508-57313786b5f2)
+
